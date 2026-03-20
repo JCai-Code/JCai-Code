@@ -1,27 +1,81 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=James%20Cai&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=DevOps&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
 
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-764ABC?style=flat-square&logo=Linux&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-45b8d8?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-5849BE?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-430098?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-764ABC?style=flat-square&logo=AmazonAWS&logoColor=white" />
-</p>
+<div align="center">
 
-<!--
-**Tony-CCIE/Tony-CCIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+DevOps Engineer specializing in Python and CI/CD automation.
+
+⌖ **Location** &nbsp; ShangHai, China <br/>
+⌗ **Experience** &nbsp; 5+ years <br/>
+◎ **Education** &nbsp; James Cai <br/>
+⟳ **Learning** &nbsp; AI, C++
+
+---
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ruby,bash&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,astro&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,terraform&theme=dark" alt="DevOps & Cloud"/>
+
+---
+
+### Languages
+
+🇨🇳 **Chinese** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🇬🇧 **English** &nbsp; ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow?style=flat-square) <br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jcai-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcai-code&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jcai-code&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jcai-code&theme=dracula&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/Jcai-code">github.com/Jcai-code</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%"/>
+
+</div>
