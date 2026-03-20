@@ -14,7 +14,6 @@ DevOps Engineer specializing in Python and CI/CD automation.
 
 ⌖ **Location** &nbsp; ShangHai, China <br/>
 ⌗ **Experience** &nbsp; 5+ years <br/>
-◎ **Education** &nbsp; James Cai <br/>
 ⟳ **Learning** &nbsp; AI, C++
 
 ---
